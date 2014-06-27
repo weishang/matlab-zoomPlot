@@ -65,5 +65,8 @@ set(az, 'xtick', [], 'ytick', []);
 set(source_rect, 'linestyle','--', 'Edgecolor', 'k');
 box on;
 
+% making the original plot the active plot. 
+axes(ah); 
 % making sure the original plot is behind all the other elements  
 uistack(ah, 'bottom');
+
