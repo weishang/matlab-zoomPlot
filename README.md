@@ -10,5 +10,8 @@ Added a zoom in plot to an existing plot. The location to be magnified as well a
 
 
 **todo**
- - allow simple resize after the plot is made
- - allow drag-and-drop of the zoom-in plot
+  - provide handle to axes as input 
+ - first select the zoom area (default plot to upper right corner) 
+ - the attach mouse action listener to the two rectangles. 
+ - resize and move based on mouse action. 
+ - 
