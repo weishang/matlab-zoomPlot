@@ -15,3 +15,12 @@ Added a zoom in plot to an existing plot. The location to be magnified as well a
  - the attach mouse action listener to the two rectangles. 
  - resize and move based on mouse action.
  - 3D plot? 
+
+
+Desired feature/usage: 
+
+1. user calls a function with the handle of an axes 
+2. user is then prompted to select an area which is to be zoom in
+3. user is then prompted for the area which the zoom in plot is placed 
+4. both boxes should be configurable, e.g., resize, moved. 
+5. 
