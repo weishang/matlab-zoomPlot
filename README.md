@@ -23,4 +23,3 @@ Desired feature/usage:
 2. user is then prompted to select an area which is to be zoomed in
 3. afterwards, user is prompted for the area which the zoom-in plot is placed 
 4. Both boxes should be configurable, _e.g._, can be resize, moved, or styled differently. (probably have their handle returned as output so we can just set.). 
-5. 
