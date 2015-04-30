@@ -19,8 +19,8 @@ Added a zoom in plot to an existing plot. The location to be magnified as well a
 
 Desired feature/usage: 
 
-1. user calls a function with the handle of an axes 
-2. user is then prompted to select an area which is to be zoom in
-3. user is then prompted for the area which the zoom in plot is placed 
-4. both boxes should be configurable, e.g., resize, moved. 
+1. user calls a function with the handle of an axes (or figure)  
+2. user is then prompted to select an area which is to be zoomed in
+3. afterwards, user is prompted for the area which the zoom-in plot is placed 
+4. Both boxes should be configurable, _e.g._, can be resize, moved, or styled differently. (probably have their handle returned as output so we can just set.). 
 5. 
