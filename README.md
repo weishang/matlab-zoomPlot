@@ -6,11 +6,12 @@ Added a zoom in plot to an existing plot. The location to be magnified as well a
 
 ![screenshot of example](./images/example.png)
 
-
+Added interactive version for making the zoom plot. It requires imrect which is from the Image Processing toolbox. 
 
 
 **todo**
- - provide handle to axes as input 
+- clean up the docs. 
+- provide handle to axes as input 
  - first select the zoom area (default plot to upper right corner) 
  - the attach mouse action listener to the two rectangles. 
  - resize and move based on mouse action.
