@@ -4,6 +4,6 @@ figure;
 
 plot(rand(1,10));
 
-rect = addZoomInAxes(gca);
+[rect, zoomedAxes] = addZoomInAxes(gca);
 
 
